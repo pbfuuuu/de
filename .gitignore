@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+images/
+.idea/
+.venv/
+venv/
+*_dump.sql
+*.dump.sql
